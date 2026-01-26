@@ -10,8 +10,7 @@ import javax.swing.JTextField;
 public class BMICalculatorV2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// TODO Auto-generated method stub
+		 
 				JFrame frame = new JFrame("BMI Calculator 2.1 - GridLayout");
 				frame.setLayout(new GridLayout(4,2));
 
